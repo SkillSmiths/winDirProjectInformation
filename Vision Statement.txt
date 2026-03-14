@@ -1,3 +1,9 @@
+For at home network and system administrators managing multiple devices, cross network disk visualization is extremely important. This build of WinDirStat maintains the lightweight functionality of the tool, alongside many quality of life improvements that optimize storage safely and efficiently.
+
+Unlike large scale business and finance network infrastructure like Grafana and Prometheus which focus on network performance and time to report, the focus for this buid is centered around personal at home use across devices. 
+
+Our goal is to build and provide a more finely tuned open source tool that makes disk analysis more user friendly and viable across devices, while maintaining the convenience of the original client.
+
 Cross-Device Disk Visualizer, File Optimizer  
 For: 		Technical Computer users, Server manage, 
 Who: 		Those who have many devices to manage, servers, or old devices, and need to organize and manage space in a intuitive and straightforward method.
