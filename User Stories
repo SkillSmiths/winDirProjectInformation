@@ -2,7 +2,5 @@ As a user, I would like to see disk usage reports that are exported to different
 
 As a user, I would like a file system snapshots system so that I can track different disk usage changes over time, as well as trends.
 
-As a user, I would like a file safety system that has permissions handling, so that I know if what I am removing will be fatal to a process or my system.
-
 As a user, i would like to have duplicate file detection by content that can detect if my system has multiple files with the same data.
   
